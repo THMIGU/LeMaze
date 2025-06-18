@@ -325,8 +325,8 @@ namespace game {
 int main() {
     terminal::init();
 
-    constexpr unsigned int rows = 35;
-    constexpr unsigned int cols = 35;
+    constexpr unsigned int rows = 45;
+    constexpr unsigned int cols = 45;
 
     constexpr pair<int, int> start_position = {1, 1};
 
